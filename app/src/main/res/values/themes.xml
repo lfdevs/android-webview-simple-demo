@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WebviewSimpleDemo" parent="Theme.Material3.Light.NoActionBar">
+    </style>
+    <style name="Theme.WebviewSimpleDemo.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- 其他属性 -->
+    </style>
+</resources>

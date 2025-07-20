@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Webview Simple Demo</string>
+    <string name="webview_url">https://ys.mihoyo.com/cloud/m/</string>
+</resources>
